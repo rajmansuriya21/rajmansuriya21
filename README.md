@@ -1,18 +1,17 @@
 
 <img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="Raj Mansuriya" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
+
 <h1 align="center">Hi 👋, I'm Raj Mansuriya</h1>
 <h3 align="center">I am passionate Tech enthusiast,My expertise spans Machine Learning, Data Science, and Data Analytics.</h3>
 <img align="right" alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
 
 - 🔭 I’m currently working at **VisaKwik**
 
 - 🤝I'm always eager **to connect with like-minded individuals, exchange ideas, and embark on collaborative journeys in innovative projects and actively seeking exciting opportunities in the field of Machine Learning and Data Science. Eager to bring my passion, skills, and innovative mindset to a dynamic team.**
 
 - 📫 How to reach me **rajmansuriya1@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmansuriya21&show_icons=true&locale=en&layout=compact" alt="rajmansuriya21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmansuriya21&show_icons=true&locale=en" alt="rajmansuriya21" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmansuriya21&" alt="rajmansuriya21" /></p>
