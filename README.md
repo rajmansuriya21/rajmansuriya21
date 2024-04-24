@@ -1,7 +1,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="Raj Mansuriya" width="1000">
+        <img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="Raj Mansuriya" width="999">
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
 <h1 align="center">Hi 👋, I'm Raj Mansuriya</h1>
 <h3 align="center">I am passionate Tech enthusiast,My expertise spans Machine Learning, Data Science, and Data Analytics.</h3>
