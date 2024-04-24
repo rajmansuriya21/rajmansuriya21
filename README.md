@@ -1,11 +1,11 @@
-</head>
-<body>
-    <div class="container">
-        <img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="Raj Mansuriya" width="1000">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
+
+<img src="https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png" alt="Raj Mansuriya" width="1000">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
 <h1 align="center">Hi 👋, I'm Raj Mansuriya</h1>
 <h3 align="center">I am passionate Tech enthusiast,My expertise spans Machine Learning, Data Science, and Data Analytics.</h3>
-                                       <img class="center" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800">
+<img align="right" alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmansuriya21&label=Profile%20views&color=0e75b6&style=flat" alt="rajmansuriya21" /> </p>
 
 - 🔭 I’m currently working at **VisaKwik**
 
@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **rajmansuriya1@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajmansuriya21" alt="rajmansuriya21" /></a> </p>
+
+  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rajmansuriya21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajmansuriya21" height="30" width="40" /></a>
